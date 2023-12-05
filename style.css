@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(125, 145, 255);
+    color: rgb(17, 0, 0);
+}
+ul{
+    background-color: rgb(255, 255, 255);
+    color: aliceblue;
+    font-family: monospace;
+    font-size: xx-large;
+    border-radius: 10px;
+    list-style: none;
+    
+}.paragrafo1{
+    background-color: rgb(125, 145, 255);
+    color: rgb(0, 0, 0);
+}
